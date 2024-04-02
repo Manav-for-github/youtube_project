@@ -1,5 +1,9 @@
-distlib==0.3.7
-filelock==3.13.1
-platformdirs==3.11.0
+google-api-core==2.15.0
+google-api-python-client==2.113.0
+pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
+SQLAlchemy @ file:///C:/ci_311/sqlalchemy_1676446707912/work
+pymongo==4.6.1
 psycopg2==2.9.9
-virtualenv==20.24.6
+streamlit==1.31.1
+certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
+
