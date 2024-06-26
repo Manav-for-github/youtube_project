@@ -13,7 +13,6 @@ Streamlit Application: A user-friendly UI built using Streamlit library, allowin
 YouTube API Integration: Integration with the YouTube API to fetch channel,video, playlist and comment data based on the provided channel ID.
 MongoDB Data Lake: Storage of the retrieved data in a MongoDB database, providing a flexible and scalable solution for storing unstructured and semi-structured data.
 SQL Data Warehouse: Migration of data from the data lake to a SQL database, allowing for efficient querying and analysis using SQL queries.
-Data Visualization: Presentation of retrieved data using Streamlit's data visualization features, enabling users to analyze the data through charts and graphs.
 
 Technologies Used
 
@@ -26,7 +25,6 @@ MongoDB: A NoSQL database used as a data lake for storing retrieved YouTube data
 SQL (MySQL): A relational database used as a data warehouse for storing migrated YouTube data.
 postgresql: A Python library used for SQL database connectivity and interaction.
 Pandas: A data manipulation library used for data processing and analysis.
-Matplotlib: A data visualization library used for creating charts and graphs.
 
 Installation and Setup
 
